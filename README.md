@@ -1,7 +1,7 @@
 # Mechacar_stat_analysis
 
 ## Linear Regression to Predict MPG
-![Image alt text] (./MPG_Linear_model.jpg)
+![Image alt text](MPG_Linear_model.jpg)
 
 ### The following variables provided a non-random amount of variance to the mpg values:
 - Vehicle Length has a P.value of 2.60e-12, making it statistically significant 
