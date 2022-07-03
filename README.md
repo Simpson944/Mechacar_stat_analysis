@@ -14,12 +14,14 @@
 ----
 ## Summary statisctics on Suspension Coils 
 ### In total, the combined lots meet the maufactures requirements of no more than 100 psi in variation (coming in at a variance of 62.3). On the individual level, lot 3 is the only lot out of tolerance; with a 'var' of 170 psi, and a standard diviation of 13. Their average and median PSI is within range, however further analysis is needed to evaluate potential outliers in the data
-![Image alt text](TOTAL_and_LOT_PSI.jpg)
+![Image alt text](T.test_lot1_vs_population.jpg)
+![Image alt text](T.test_lot2_vs_population.jpg)
+![Image alt text](T.test_lot3_vs_population.jpg)
 
 ---
 ## T - Test's on Suspension Coils
 ### As shown in the following images, lot 1 and 2 show very low p value scores, indicating low variability. Lot 3's data indicates variability, with a P value of .16. Additionally, lot 3's mean value is the lowest at 1496 psi. 
-
+![Image alt text](TOTAL_and_LOT_PSI.jpg)
 ---
 ## Future Statistical Analysis 
 - What metric or metrics are you going to test?
