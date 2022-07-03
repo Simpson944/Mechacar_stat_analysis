@@ -13,7 +13,8 @@
 
 ----
 ## Summary statisctics on Suspension Coils 
-### In total, the combined lots meet the maufactures requirements of no more than 100 psi in ariation (coming in at a variance of 62.3). On the individual level, lot 3 is the only lot out of tolerance; with a 'var' of 170 psi, and a standard diviation of 13. Their average and median PSI is within range, however further analysis is needed to evaluate potential outliers in the data (insert photo)
+### In total, the combined lots meet the maufactures requirements of no more than 100 psi in variation (coming in at a variance of 62.3). On the individual level, lot 3 is the only lot out of tolerance; with a 'var' of 170 psi, and a standard diviation of 13. Their average and median PSI is within range, however further analysis is needed to evaluate potential outliers in the data
+![Image alt text](TOTAL_and_LOT_PSI.jpg)
 
 ---
 ## T - Test's on Suspension Coils
